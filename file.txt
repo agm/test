@@ -1,3 +1,4 @@
 test
 newline
 third
+4
